@@ -1,5 +1,5 @@
 <div align="center">
-![jhcorea736's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhcorea736&show_icons=true&theme=tokyonight)
+![jhcorea736's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhcorea736&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcorea736&layout=compact&theme=tokyonight)
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5">
