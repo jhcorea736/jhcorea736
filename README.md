@@ -1,6 +1,4 @@
 <div align="left">
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
      
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhcorea736&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jhcorea736)
 
@@ -31,9 +29,4 @@
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
     <br>
 </div>
-</div>
-<br>
-
-<div>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
 </div>
