@@ -5,6 +5,8 @@
 [![jhcorea736's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhcorea736&theme=nord&hide_border=true&count_private=true)](https://github.com/jhcorea736/github-readme-stats)
      
 ![TOP LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcorea736&layout=compact&theme=tokyonight)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhcorea736)](https://solved.ac/jhcorea736/)
       
 <br>
      
