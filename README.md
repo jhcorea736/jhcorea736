@@ -4,7 +4,7 @@
      
 [![jhcorea736's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhcorea736&theme=nord&hide_border=true&count_private=true)](https://github.com/jhcorea736/github-readme-stats)
      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcorea736&layout=compact&theme=tokyonight)]
+[![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcorea736&layout=compact&theme=tokyonight)
       
 <br>
      
